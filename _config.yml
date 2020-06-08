@@ -58,9 +58,9 @@ descriptions:
     desc: "Android Application."
 
   - cat: python
-    desc: "문제"
+    desc: "파이썬 문제풀이."
    
-  - cat: dummy
+  - cat: django
     desc: "django 프로젝트 기록."
 
 # Social icons and sharing options
