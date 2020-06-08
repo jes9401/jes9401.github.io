@@ -58,10 +58,8 @@ descriptions:
     desc: "Android Application."
 
   - cat: python
-    desc: "파이썬 문제풀이."
    
   - cat: django
-    desc: "django 프로젝트 기록."
 
 # Social icons and sharing options
 #
