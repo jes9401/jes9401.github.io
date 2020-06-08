@@ -56,10 +56,10 @@ jekyll-archives:
 descriptions:
   - cat: android
     desc: "Android Application."
-
   - cat: python
-   
+    desc: "python 문제 풀이."
   - cat: django
+    desc: "django 프로젝트 기록."
 
 # Social icons and sharing options
 #
